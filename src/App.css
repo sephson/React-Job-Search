@@ -1,0 +1,12 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.jobs-container {
+  background-color: beige;
+  box-shadow: rgb(129, 126, 123);
+  text-align: left;
+  /* padding: 0.5rem; */
+}
